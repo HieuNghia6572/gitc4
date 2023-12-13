@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace testgit.NewFolder1
+namespace testgit.models
 {
     internal class User
     {
