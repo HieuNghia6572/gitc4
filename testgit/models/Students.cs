@@ -8,6 +8,6 @@ namespace testgit.models
 {
     internal class Students
     {
-        public int MSSV {  get; set; }
+        public int ID {  get; set; }
     }
 }
